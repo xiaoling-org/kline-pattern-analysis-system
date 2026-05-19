@@ -1,0 +1,14 @@
+{
+  "signal_threshold": 60,
+  "max_risk_per_trade": 0.02,
+  "max_total_position": 0.50,
+  "stop_loss_percent": -8.0,
+  "take_profit_percent": 16.0,
+  "min_profit_ratio": 2.0,
+  "test_symbols_crypto": ["BTCUSDT", "ETHUSDT", "SOLUSDT", "BNBUSDT", "XRPUSDT"],
+  "test_symbols_forex": ["EURUSD", "GBPUSD", "AUDUSD", "XAUUSD", "XAGUSD"],
+  "test_interval": "1h",
+  "test_duration_days": 7,
+  "telegram_notify": true,
+  "dashboard_refresh_interval": 5
+}

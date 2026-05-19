@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "date": "------",
+      "time": "------",
+      "signals": "--------",
+      "max_score": "--------",
+      "direction": "------",
+      "approved": "----------",
+      "note": "------"
+    },
+    {
+      "date": "2026-05-03",
+      "time": "11:05",
+      "signals": "0",
+      "max_score": "0",
+      "direction": "-",
+      "approved": "-",
+      "note": "外汇首次测试，无信号"
+    }
+  ]
+}

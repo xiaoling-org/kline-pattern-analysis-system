@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-05-04T02:51:05.155951",
+  "crypto": {
+    "BTCUSDT": {
+      "price": 78745.71,
+      "change_24h": 0,
+      "volume": 0
+    },
+    "ETHUSDT": {
+      "price": 2332.4,
+      "change_24h": 0,
+      "volume": 0
+    },
+    "SOLUSDT": {
+      "price": 84.28,
+      "change_24h": 0,
+      "volume": 0
+    },
+    "BNBUSDT": {
+      "price": 619.44,
+      "change_24h": 0,
+      "volume": 0
+    },
+    "XRPUSDT": {
+      "price": 1.3946,
+      "change_24h": 0,
+      "volume": 0
+    }
+  },
+  "forex": {
+    "EURUSD": {
+      "price": 1.172333002090454,
+      "change_24h": 0
+    },
+    "GBPUSD": {
+      "price": 1.3575890064239502,
+      "change_24h": 0
+    },
+    "AUDUSD": {
+      "price": 0.7208245992660522,
+      "change_24h": 0
+    },
+    "XAUUSD": {
+      "price": 0.0,
+      "change_24h": 0
+    },
+    "XAGUSD": {
+      "price": 0.0,
+      "change_24h": 0
+    }
+  }
+}

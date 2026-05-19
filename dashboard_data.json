@@ -1,0 +1,22 @@
+{
+  "last_update": "2026-05-04T02:50:07.950636",
+  "crypto": {
+    "timestamp": "2026-05-03T11:03:01.851326",
+    "signals": [],
+    "summary": {
+      "total_signals": 0,
+      "max_score": 0,
+      "approved_count": 0
+    }
+  },
+  "forex": {
+    "timestamp": "2026-05-03T11:06:32.929326",
+    "type": "forex",
+    "signals": [],
+    "summary": {
+      "total_signals": 0,
+      "max_score": 0,
+      "approved_count": 0
+    }
+  }
+}

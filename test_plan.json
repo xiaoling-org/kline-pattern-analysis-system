@@ -1,0 +1,31 @@
+{
+  "plan": "自动交易系统测试周",
+  "start_date": "2026-05-03",
+  "end_date": "2026-05-10",
+  "test_schedule": {
+    "daily_runs": [
+      "09:30",
+      "15:30",
+      "21:00"
+    ],
+    "symbols": [
+      "BTCUSDT",
+      "ETHUSDT",
+      "SOLUSDT",
+      "BNBUSDT",
+      "XRPUSDT"
+    ],
+    "signal_threshold": 60
+  },
+  "metrics_to_track": [
+    "信号数量",
+    "信号分数分布",
+    "信号方向准确率",
+    "风控通过率",
+    "模拟盈亏"
+  ],
+  "deliverables": {
+    "daily_report": "每晚发送测试报告",
+    "final_evaluation": "2026-05-10 评估是否自动运行"
+  }
+}

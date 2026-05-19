@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-05-07T09:34:47.609108",
+  "data_source": "Binance Testnet (5m interval - testnet has limited 1h data)",
+  "signals": [],
+  "score_breakdown": [
+    {
+      "symbol": "BTCUSDT",
+      "klines_count": 100,
+      "price": 81160.83,
+      "direction": "SHORT",
+      "score": 30,
+      "reasons": [
+        "MA趋势:SHORT",
+        "RSI中性(43.5)"
+      ],
+      "rsi": 43.5,
+      "macd_histogram": 0.0,
+      "pattern": null,
+      "status": "分数不足"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "klines_count": 100,
+      "price": 2328.6,
+      "direction": "SHORT",
+      "score": 25,
+      "reasons": [
+        "MA趋势:SHORT",
+        "RSI偏移(32.9)"
+      ],
+      "rsi": 32.85,
+      "macd_histogram": 0.0,
+      "pattern": null,
+      "status": "分数不足"
+    },
+    {
+      "symbol": "SOLUSDT",
+      "klines_count": 100,
+      "price": 88.32,
+      "direction": "SHORT",
+      "score": 50,
+      "reasons": [
+        "MA趋势:SHORT",
+        "RSI偏移(36.7)",
+        "形态:BEARISH_ENGULFING"
+      ],
+      "rsi": 36.67,
+      "macd_histogram": 0.0,
+      "pattern": "BEARISH_ENGULFING",
+      "status": "分数不足"
+    },
+    {
+      "symbol": "BNBUSDT",
+      "klines_count": 100,
+      "price": 643.79,
+      "direction": "SHORT",
+      "score": 25,
+      "reasons": [
+        "MA趋势:SHORT",
+        "RSI偏移(29.9)"
+      ],
+      "rsi": 29.89,
+      "macd_histogram": 0.0,
+      "pattern": null,
+      "status": "分数不足"
+    },
+    {
+      "symbol": "XRPUSDT",
+      "klines_count": 100,
+      "price": 1.4165,
+      "direction": "SHORT",
+      "score": 50,
+      "reasons": [
+        "MA趋势:SHORT",
+        "RSI偏移(31.1)",
+        "形态:INVERTED_HAMMER"
+      ],
+      "rsi": 31.06,
+      "macd_histogram": 0.0,
+      "pattern": "INVERTED_HAMMER",
+      "status": "分数不足"
+    }
+  ],
+  "summary": {
+    "total_scanned": 5,
+    "total_signals": 0,
+    "max_score": 0,
+    "approved_count": 0,
+    "insufficient_data": false
+  }
+}
